@@ -1,1 +1,2 @@
-Readme file for CSCI 3308 Recitation Lab4
+Thomas Payne
+Recitation3308 Lab4
